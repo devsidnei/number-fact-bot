@@ -1,0 +1,23 @@
+{
+  "name": "number-fact-bot",
+  "version": "1.0.0",
+  "description": "Number Fact Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devsidnei/number-fact-bot.git"
+  },
+  "keywords": [
+    "discord",
+    "bot"
+  ],
+  "author": "Sidnei Simeão",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devsidnei/number-fact-bot/issues"
+  },
+  "homepage": "https://github.com/devsidnei/number-fact-bot#readme"
+}
